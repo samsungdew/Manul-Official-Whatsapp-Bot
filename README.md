@@ -16,7 +16,7 @@
 <p align="center">
 <img src="https://telegra.ph/file/2717975a4410096a24c0f.jpg" width="300" height="300"/>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&random=false&width=435&lines=%F0%9F%A6%8B+%E2%94%82%F0%9D%90%82%F0%9D%90%98%F0%9D%90%81%F0%9D%9C%A9%F0%9D%90%91%E2%94%82%F0%9D%90%8F%F0%9D%9C%9F%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%80%E2%94%82%F0%9D%90%8C%F0%9D%90%83%E2%94%82%F0%9D%90%95%E2%9E%82+%F0%9F%A6%8B)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0022F7&random=false&width=435&lines=%F0%9F%93%8D%F0%9D%90%8C%F0%9D%90%AB+%F0%9D%90%82%F0%9D%90%B2%F0%9D%90%9B%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AE%F0%9D%90%A5+%F0%9D%90%8E%F0%9D%90%9F%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9C%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A5+%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%AC%F0%9D%90%80%F0%9D%90%A9%F0%9D%90%A9+%F0%9D%90%81%F0%9D%90%A8%F0%9D%90%AD%F0%9F%92%96)](https://git.io/typing-svg)
  
 <p align="center">
 <a href="#"><img title="sapot" src="https://img.shields.io/badge/Senesh-Shashmika-red.svg?style=for-the-badge&logo=github"></a>
