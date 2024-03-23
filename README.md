@@ -8,7 +8,7 @@
 
 ➄. Connect Your Repository to your web host site
 
-➅. [Watch Videos](https://youtu.be/amorCyDpKIo?si=BR2yG4lG4RCHSWRs)
+➅. [Watch Videos]()
 
 <p align="center"> 
 <u>🎯Manul Official Bot MD💖</u>
@@ -29,9 +29,9 @@
 <u>🎯Manul Official Bot MD💖</u>
 </p>
 
-[🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼](https://youtu.be/amorCyDpKIo?si=VebhbHXCe53xct3X)
+[🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼]()
 
-[💞 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💞](https://chat.whatsapp.com/FiVM7anDmin0qnLqWwkgev)
+[💞 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💞](https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN)
 
 
 ____________________
