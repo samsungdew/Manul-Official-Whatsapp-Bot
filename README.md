@@ -29,13 +29,13 @@ ____________________
 
 ____________________
 
-## Get Season File 👇
+## 👇💖 Get Season File 💖👇
   
 <a href='https://replit.com/@manulofficial7/Manul-Official-Whatsapp-Bot' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ____________________
 
- ## Heroku Tutorial Video 👇
+ ## 👇💖 Heroku Tutorial Video 💖👇
 
  
  <p align="left">
@@ -43,7 +43,7 @@ ____________________
 
 ____________________
 
-## Deploy Heroku 👇
+## 👇💖 Deploy Heroku 💖👇
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manul-Official-Whatsapp-Bot)
 
