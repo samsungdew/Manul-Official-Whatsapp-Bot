@@ -51,7 +51,7 @@ const store = makeInMemoryStore({
 async function startA17() {
   console.log(
     color(
-      figlet.textSync("CYBER-PANDA-MD", {
+      figlet.textSync("CYBER-MANU-MD", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -62,14 +62,14 @@ async function startA17() {
       "green"
     )
   );
-  console.log(color('\nHi, Im CYBER PANDA MD V4 MAIN DEVELOPER OF THIS\n\nTHANKS FOR USER : CYBER PANDA MD V4.', 'aqua'))
-  console.log(color('\nYou can follow me on GitHub: Sachith', 'aqua'))
+  console.log(color('\nHi, Im CYBER MANU MD V1 MAIN DEVELOPER OF THIS\n\nTHANKS FOR USER : CYBER MANU MD V1.', 'aqua'))
+  console.log(color('\nYou can follow me on GitHub: manulofficial7', 'aqua'))
 
   const { state, saveCreds } = await useMultiFileAuthState("./SESSION");
   const A17 = A17Connect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["CYBER-PANDA-MD", "Safari", "3.O"],
+    browser: ["CYBER-MANU-MD", "Safari", "3.O"],
     auth: state,
   });
 
@@ -275,7 +275,7 @@ async function startA17() {
             A17text = `
 Hello @${WAuserName.split("@")[0]},
 
-I am *🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋*, Welcome to ${metadata.subject}.
+I am *©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️*, Welcome to ${metadata.subject}.
 
 *Group Description:*
 ${metadata.desc}
