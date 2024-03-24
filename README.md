@@ -17,7 +17,7 @@
 <u>🎯Manul Official Bot MD💖</u>
 </p>
 
-
+[🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼](https://youtu.be/2OJcIWwYTi4)
 [📍 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💖]( https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN )
 
 
@@ -31,6 +31,14 @@ ____________________
 ## Get Season File 👇
   
 <a href='https://replit.com/@manulofficial7/Manul-Official-Whatsapp-Bot' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+____________________
+
+ ## Heroku Tutorial Video 👇
+
+ 
+ <p align="left">
+<a href="https://youtu.be/amorCyDpKIo?si=VIw9mxSA5ruc6UKi"><img align="center" src="https://telegra.ph/file/ef84f5465117cd6d66c17.jpg" alt="DEPLOY" height="110" width="200" /></a>
 
 ____________________
 
