@@ -14,7 +14,7 @@
 <a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-Manul.Official-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center"> 
-<u>🎯Manul Official Bot MD💖</u>
+<u>📍Manul Official Bot MD💖</u>
 </p>
 
 [🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼](https://youtu.be/2OJcIWwYTi4)
