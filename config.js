@@ -80,18 +80,18 @@ global.ntilink = []
 //
 global.mess = {
   jobdone: 'Here you go...',
-  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-  botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
-  grouponly: 'This command is only made for *Groups*, Baka!',
-  privateonly: 'This command is only made for *Private Chat*, Baka!',
-  botonly: 'Only the *Bot itself* can use this command!',
-  waiting: 'Just Wait...',
-  nolink: 'Please provide me *link*, Baka!',
-  error: 'An error occurd!',
-  banned: 'You are *Banned* fron using commands!',
-  bangc: 'This Group is *Banned* from using Commands!',
-  nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+  useradmin: 'සමාවන්න, මෙම විධානය භාවිතා කළ හැක්කේ *සමූහ පරිපාලකයින්ට* පමණි!',
+  botadmin: 'සමාවන්න, මට මෙම කණ්ඩායමේ *පරිපාලක* වරයෙකු නොවී මෙම විධානය ක්‍රියාත්මක කළ නොහැක!',
+  botowner: 'මෙම විධානය භාවිතා කළ හැක්කේ මගේ *හිමිකරුට* පමණි!',
+  grouponly: 'මෙම විධානය සාදා ඇත්තේ *කණ්ඩායම්* සඳහා පමණි!',
+  privateonly: 'මෙම විධානය සාදා ඇත්තේ *පුද්ගලික කතාබස්* සඳහා පමණි!',
+  botonly: 'මෙම විධානය භාවිතා කළ හැක්කේ *Bot හට* පමණි!',
+  waiting: '```මද වේලාවක් රැඳී සිටින්න...```',
+  nolink: 'කරුණාකර මට *සබැඳිය* ලබා දෙන්න!',
+  error: 'දෝෂයක් සිදු විය!',
+  banned: 'ඔබ විධාන භාවිතයෙන් *තහනම්* කර ඇත!',
+  bangc: 'මෙම කණ්ඩායම විධාන භාවිතා කිරීම *තහනම්* කර ඇත!',
+  nonsfw: 'විකෘති වෙන්න එපා! මෙය *NSFW* සබල කළ කණ්ඩායමක් නොවේ!'
 
 }
 
