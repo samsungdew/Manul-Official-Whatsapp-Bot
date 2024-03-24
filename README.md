@@ -1,15 +1,3 @@
-
-
-➁. Uplod File SESSION [creds.json]()
-
-➂. Update [config.js]()
-
-➃. Make acount on your host
-
-➄. Connect Your Repository to your web host site
-
-➅. [Watch Videos]()
-
 <p align="center"> 
 <u>🎯Manul Official Bot MD💖</u>
 </p>
@@ -29,9 +17,8 @@
 <u>🎯Manul Official Bot MD💖</u>
 </p>
 
-[🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼]()
 
-[💞 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💞]( https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN )
+[📍 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💖]( https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN )
 
 
 ____________________
@@ -57,10 +44,6 @@ ____________________
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manul-Official-Whatsapp-Bot)
 
 ____________________
-
-## Deploy Replit 👇
-  
-<a href='https://replit.com/~' target="_blank"><img alt='Deploy Replit' src=' REPLIT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ____________________
 
