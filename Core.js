@@ -701,7 +701,7 @@ Typed *surrender* to surrender and admited defeat`
       kai: `My Boss is lost in another Multiverse, and I lost connection with him...`,
       runtime: `🦋𝘏𝘐 ${pushname}\n${nowtime}\n\n🦋𝘙𝘜𝘕𝘛𝘐𝘔𝘌:${runtime(process.uptime())}\n\n🦋𝘗𝘙𝘌𝘍𝘐𝘟: *${prefix}*\n\n🦋𝘛𝘐𝘔𝘌: ${kaitime}\n\n🦋𝘋𝘈𝘛𝘌: ${kaidate}\n\n🦋𝘛𝘰𝘥𝘢𝘺 𝘪𝘴 ${currentDay}`,
       konichiwa: `Konichiwa ${pushname}, I am ${BotName}. How can I help you?`,
-      alive: '🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋',
+      alive: '©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️',
       ping: `Hi🛡️ ${pushname}, Pong ${latensie.toFixed(4)} ms`,
       'good morning': `Good morning💞🦋.`,
       ohayo: `Good morning to you too ${pushname} ☺️. Have a great day 😇.`,
@@ -733,18 +733,18 @@ Typed *surrender* to surrender and admited defeat`
         if (isBanChat) return reply(mess.bangc);
         A17.sendMessage(from, { react: { text: "✅", key: m.key } })
 
-        let { data } = await axios.get('https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4');
+        let { data } = await axios.get('https://github.com/manulofficial7/Manul-Official-Whatsapp-Bot');
         teks = `
 ┌───────────────       
-│ *®-ᴄʏʙᴇʀ-ᴘᴀɴᴅᴀ-ᴍᴅ*
+│ *®-ᴄʏʙᴇʀ-ᴍᴀɴᴜ-ᴍᴅ*
 ├───────────────
 │ *Total Stars* ${data.stargazers_count}
 ├───────────────
 │ *Total Forks* ${data.forks_count} forks
 ├───────────────
-│ *GitHub* https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4
+│ *GitHub* https://github.com/manulofficial7/Manul-Official-Whatsapp-Bot
 ├───────────────
-│ *ꜱᴀᴄʜɪᴛʜ ᴄʜᴀɴᴅʀᴀ*
+│ *ᴍᴀɴᴜʟ ᴏꜰꜰɪᴄɪᴀʟ*
 └────────────────`
         /*  let buttons = [
           {buttonId: `${prefix}owner`, buttonText: {displayText: '🍁 DEVELOPER 🍁'}, type: 1}
@@ -849,7 +849,7 @@ Typed *surrender* to surrender and admited defeat`
         if (isBanChat) return reply(mess.bangc);
 
         A17.sendMessage(from, { react: { text: "💫", key: m.key } })
-        reply(`⚙ My Source Code is </> - https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4`)
+        reply(`⚙ My Source Code is </> - https://github.com/manulofficial7/Manul-Official-Whatsapp-Bot`)
       }
         break;
 
