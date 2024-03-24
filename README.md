@@ -1,5 +1,5 @@
 <p align="center"> 
-<u>🎯Manul Official Bot MD💖</u>
+<u>📍Manul Official Bot MD💖</u>
 </p>
 <p align="center">
 <img src="https://telegra.ph/file/2717975a4410096a24c0f.jpg" width="300" height="300"/>
@@ -18,6 +18,7 @@
 </p>
 
 [🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼](https://youtu.be/2OJcIWwYTi4)
+____________________
 [📍 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💖]( https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN )
 
 
