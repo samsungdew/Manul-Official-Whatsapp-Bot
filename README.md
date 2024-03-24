@@ -49,4 +49,4 @@ ____________________
       ``⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.´´
 
 
-https://replit.com/~
+Contact Owner -: +94760069363
