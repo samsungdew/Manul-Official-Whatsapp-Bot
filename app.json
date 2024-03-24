@@ -1,0 +1,18 @@
+{
+  "name": "CYBER-MANU-MD",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/manulofficial7/Manul-Official-Whatsapp-Bot",
+  "logo": "https://telegra.ph/file/2717975a4410096a24c0f.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
